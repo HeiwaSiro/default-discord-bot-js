@@ -10,7 +10,7 @@ This project is a basic Discord bot built using Node.js and Discord.js. It inclu
 ## Setup
 1. Clone the Repository: Clone this repository to your local machine.
 ```bash
-git clone https://github.com/ZukoHeiwa0000/default-discord-bot-js.git
+git clone https://github.com/HeiwaSiro/default-discord-bot-js.git
 ```
 2. Install Dependencies: Navigate to the project directory and install dependencies.
 ```bash
@@ -44,6 +44,6 @@ This will start the bot and log it in to Discord.
 - Customize the bot's behavior by modifying or adding command and event files under their respective directories (`commands/` and `events/`).
 - Ensure your bot has the necessary permissions on Discord as configured in the OAuth2 URL.
 ## Contributing
-Feel free to fork this repository, create [pull requests](https://github.com/ZukoHeiwa0000/default-discord-bot-js/pulls), or open [issues](https://github.com/ZukoHeiwa0000/default-discord-bot-js/issues) for any improvements or features you'd like to see added.
+Feel free to fork this repository, create [pull requests](https://github.com/HeiwaSiro/default-discord-bot-js/pulls), or open [issues](https://github.com/HeiwaSiro/default-discord-bot-js/issues) for any improvements or features you'd like to see added.
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
